@@ -24,5 +24,14 @@ TABLA EMPLEADOS
 
 ![Consulta 5](img/blast001%20(1).jpg "Consulta 5")
 
+## departamentos cuyo presupuesto sea mayor a 100000000
 
+![Consulta 5](img/orb02%20(1).jpg "Consulta 5")
 
+# INNER JOIN
+
+![Consulta 5](img/Gemini_Generated_Image_kb2rllkb2rllkb2r.png "Consulta 5")
+
+# Sub-Consultas
+
+![Consulta 5](img/culiacan.png "Consulta 5")
